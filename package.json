@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  },
+  "name": "k6loadtests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinthiameireles/K6LoadTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinthiameireles/K6LoadTests/issues"
+  },
+  "homepage": "https://github.com/cinthiameireles/K6LoadTests#readme",
+  "description": ""
+}

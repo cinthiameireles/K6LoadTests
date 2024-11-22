@@ -6,6 +6,8 @@ export const options = {
     duration: '30s'
 };
 
-export default function(){
-    http.get('https://localhost:7180');
-}
+export default function () {
+    http.get(__ENV.URL);
+    sleep(1);
+  }
+  
